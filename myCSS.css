@@ -10,8 +10,8 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #CFD8E5;
-        text-align: center;
+	background: #0E213C;
+	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -28,14 +28,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #0E213C;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #0E213C;
 	margin: 0px;
 	float: left;
 	width: 100%;
