@@ -41,4 +41,18 @@ body {
 	width: 100%;
 	height: 50px;
 	text-align: center;
+body {
+     font: 100%/1.4 Georgia, Optima, Times, sans-serif;
+     background-color: #FFFFFF;
+     margin: 0;
+     padding: 0;
+     color: #000;}
+a:link {
+     color: #976467; 
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
